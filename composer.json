@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-calendar",
+    "name": "drivetechusa/livewire-calendar",
     "description": "Laravel Livewire calendar component",
     "keywords": [
-        "asantibanez",
+        "drivetechusa",
         "livewire-calendar"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-calendar",
+    "homepage": "https://github.com/drivetechusa/livewire-calendar",
     "license": "MIT",
     "type": "library",
     "authors": [
